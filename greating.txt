@@ -1,0 +1,14 @@
+hello-worldhello-worldhello-world!  helloAbdu!  hello Abdu ! 
+ hello Abdu ! 
+ hello ${user.username} ! 
+ hello ${user.username} !  hello ${} !  hello ${user.username} ! 
+ hello Abdu ! 
+ hello Abdu ! 
+ hello Abdu ! 
+ hello Abdu ! 
+ hello Abdu ! 
+ hello Abdu ! 
+ hello Abdu ! 
+ hello Abdu ! 
+ hello Abdu! you are: 30
+ hello Abdu! you are: undefined

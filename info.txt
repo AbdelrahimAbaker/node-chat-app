@@ -1,0 +1,28 @@
+modules:unit of functionality
+== fun. require() make three thing 3:- ==
+ 1-load in build-in modules(http:make wep server ,fs:access file system)
+ 2-load in third party libraries(Express /sequel eyes:less code).
+ 3-require our own file( let us break up our application into multiple smaller files which is essential for building real world apps. )
+
+***************************
+== vocab ==
+bundle up :package
+append:add
+toss a semi-colon at the end.
+fear not :dont afried  
+utility:
+sprinkled:
+
+*************************
+============
+scal
+maintain
+update
+test
+========== npm install :
+ "dependencies": {
+    "lodash": "^4.17.21",
+    "yargs": "^4.7.1"
+  }
+--------------------------
+npm install nodemon -g(globl)
